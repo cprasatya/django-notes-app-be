@@ -1,0 +1,6 @@
+{
+  "python.defaultInterpreterPath": "C:\\Users\\PRASETYA\\.virtualenvs\\notes_app_back_end-WMc-Hmzv\\Scripts\\python.exe",
+  "python.analysis.extraPaths": [
+    "${workspaceFolder}"
+  ]
+}
